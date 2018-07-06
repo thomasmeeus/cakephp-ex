@@ -205,6 +205,16 @@ pre {
 
 </style>
 
+	
+<!–– start coscale -->
+	
+	<script>
+(function(w,d,s,l,t,b) {w['CoscaleObj']={e:0,t:t,b:b};var js=d.createElement(s),
+	sc = d.getElementsByTagName(s)[0];js.src=l;sc.parentNode.insertBefore(js,sc);
+}(window, document,"script","//rum.coscale.com/rum/v1/js/coscale-rum.js","01e7a9d4-fc80-406f-b46c-408b1fd7b872","//rum.coscale.com"));
+</script>
+	
+<!–– end coscale -->
 </head>
 <body>
 <section class='container'>
